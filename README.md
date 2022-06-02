@@ -27,8 +27,8 @@ Please unzip them at the root, where this README file is.
 ```
 @inproceedings{choudhury2021curious,
 author = {Choudhury, Subhabrata and Laina, Iro and Rupprecht, Christian and Vedaldi, Andrea},
-booktitle = {British Machine Vision Conference}
-title = {The Curious Layperson: Fine-Grained Image Recognition without Expert Labels}
+booktitle = {British Machine Vision Conference},
+title = {The Curious Layperson: Fine-Grained Image Recognition without Expert Labels},
 volume = {32},
 year = {2021}
 }
